@@ -1,0 +1,14 @@
+# carpetas a ignorar
+uploads/*
+
+# archivo temporal de MacOS
+.DS_Store
+
+# Ingnoramos el archivo de configuracion que se debe crear manualmente en el servidor
+constantes_configuracion.php
+
+# ignoramos las dependencias del composer
+
+librerias/vendor
+
+public/*

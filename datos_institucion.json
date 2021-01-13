@@ -1,0 +1,12 @@
+[
+	{
+		"identificador": "nombre_institucion",
+		"titulo": "Nombre",
+		"valor": "Universidad Autónoma de Yucatán. Unidad Multidisciplinaria Tizimín"
+	},
+	{
+		"identificador": "direccion_institucion",
+		"titulo": "Dirección",
+		"valor": "Calle 48-A, 8 Calles, 97700 Tizimín, Yuc."
+	}
+]
